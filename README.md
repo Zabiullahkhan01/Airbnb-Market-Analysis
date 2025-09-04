@@ -270,8 +270,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Connect
 
 ### **Professional Links:**
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/zabiullah-khan-2852702ba)
-- **Tableau Public:** [Your Tableau Profile]([https://public.tableau.com/profile/yourprofile](https://public.tableau.com/app/profile/zabiullah.khan6526/vizzes))
+- **LinkedIn:** [Click to view my LinkedIn Profile](https://www.linkedin.com/in/zabiullah-khan-2852702ba)
+- **Tableau Public:** [Click to view my Tableau Profile]([https://public.tableau.com/app/profile/zabiullah.khan6526/vizzes])
 - **Email:** zabiullah.khan2002@gmail.com
 
 ---
