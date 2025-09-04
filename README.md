@@ -145,7 +145,7 @@ airbnb-seattle-analysis/
 
 ### Dashboard Screenshots:
 
-![Dashboard Overview](Dashboard-Screenshot.png)
+![Dashboard Overview](`Dashboard Screenshot.png`)
 *Main dashboard showing all key visualizations*
 
 ## 🎯 Business Impact
