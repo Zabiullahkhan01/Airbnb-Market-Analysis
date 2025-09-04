@@ -145,7 +145,7 @@ airbnb-seattle-analysis/
 
 ### Dashboard Screenshots:
 
-![Dashboard Overview](`Dashboard Screenshot.png`)
+![Dashboard Overview](Dashboard-Screenshot.png)
 *Main dashboard showing all key visualizations*
 
 ## 🎯 Business Impact
@@ -176,7 +176,7 @@ airbnb-seattle-analysis/
 git clone https://github.com/yourusername/airbnb-seattle-analysis.git
 cd airbnb-seattle-analysis
 ```
-```
+
 
 3. **Open Tableau Dashboard:**
 - Launch Tableau Desktop
