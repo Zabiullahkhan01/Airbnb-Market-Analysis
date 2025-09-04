@@ -33,36 +33,18 @@ This project demonstrates end-to-end data analysis capabilities by transforming 
 
 ```
 airbnb-seattle-analysis/
-│
-├── data/
-│   ├── raw/
-│   │   ├── listings.csv           # Property listings data
-│   │   ├── calendar.csv           # Pricing and availability data
-│   │   └── reviews.csv            # Customer reviews data
-│   │
-│   └── processed/
-│       └── airbnb_combined.xlsx   # Cleaned and joined dataset
-│
-├── tableau/
-│   ├── airbnb_dashboard.twbx      # Tableau workbook file
-│   └── dashboard_screenshots/     # Dashboard screenshots
-│       ├── full_dashboard.png
-│       ├── price_by_zipcode.png
-│       ├── geographic_map.png
-│       ├── seasonal_trends.png
-│       ├── bedroom_analysis.png
-│       └── competition_analysis.png
-│
 ├── documentation/
 │   ├── data_dictionary.md         # Data field descriptions
 │   ├── methodology.md             # Analysis methodology
 │   └── business_recommendations.md # Key findings and recommendations
+|
+├── Airbnb market analysis dashboard.twb      #Tableau dashboard
 │
-├── images/
-│   ├── dashboard_preview.png      # Main dashboard image
-│   └── process_flow.png           # Project workflow diagram
+├── Airbnb-Seattle-Dataset.xlsx            #raw dataset
 │
-├── README.md                      # This file
+├── Dashboard Screenshot.png           # Screenshot of final dashboard
+|
+├── README.md                      # readme file
 └── LICENSE                       # MIT License
 ```
 
@@ -159,13 +141,11 @@ airbnb-seattle-analysis/
 
 ## 📊 Live Dashboard
 
-**🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/profile/yourprofile)**
-
-*Note: Replace with your actual Tableau Public URL*
+**🔗 [View Interactive Dashboard on Tableau Public]([https://public.tableau.com/profile/yourprofile](https://public.tableau.com/app/profile/zabiullah.khan6526/viz/Airbnbmarketanalysisdashboard/Dashboard3?publish=yes))**
 
 ### Dashboard Screenshots:
 
-![Dashboard Overview](images/dashboard_preview.png)
+![Dashboard Overview](dashboard Screenshot.png)
 *Main dashboard showing all key visualizations*
 
 ## 🎯 Business Impact
@@ -196,12 +176,6 @@ airbnb-seattle-analysis/
 git clone https://github.com/yourusername/airbnb-seattle-analysis.git
 cd airbnb-seattle-analysis
 ```
-
-2. **Explore the Data:**
-```bash
-# Navigate to data folder
-cd data/processed
-# Open the combined Excel file to understand the dataset
 ```
 
 3. **Open Tableau Dashboard:**
@@ -290,22 +264,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - **Data Source:** [Inside Airbnb](http://insideairbnb.com/) for providing open Seattle Airbnb data
-- **Tutorial Reference:** Alex the Analyst Tableau Tutorial Series
 - **Inspiration:** Data-driven real estate investment analysis community
 - **Tools:** Tableau Public for free dashboard hosting platform
 
 ## 📞 Contact & Connect
 
 ### **Professional Links:**
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Portfolio Website:** [Your Portfolio](https://yourwebsite.com)
-- **Tableau Public:** [Your Tableau Profile](https://public.tableau.com/profile/yourprofile)
-- **Email:** your.email@gmail.com
-
-### **Project Links:**
-- **Live Dashboard:** [Tableau Public Link](https://public.tableau.com/profile/yourprofile)
-- **GitHub Repository:** [This Repository](https://github.com/yourusername/airbnb-seattle-analysis)
-- **Data Source:** [Inside Airbnb Seattle](http://insideairbnb.com/get-the-data.html)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/zabiullah-khan-2852702ba)
+- **Tableau Public:** [Your Tableau Profile]([https://public.tableau.com/profile/yourprofile](https://public.tableau.com/app/profile/zabiullah.khan6526/vizzes))
+- **Email:** zabiullah.khan2002@gmail.com
 
 ---
 
